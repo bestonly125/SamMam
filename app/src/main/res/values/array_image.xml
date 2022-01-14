@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="image_array">
+        <item>@drawable/john</item>
+        <item>@drawable/stefan</item>
+        <item>@drawable/mechanic</item>
+        <item>@drawable/ruth</item>
+        <item>@drawable/teacher</item>
+        <item>@drawable/walter</item>
+        <item>@drawable/yeats</item>
+        <item>@drawable/gran</item>
+        <item>@drawable/ruth</item>
+   </array>
+
+
+
+
+
+
+</resources>

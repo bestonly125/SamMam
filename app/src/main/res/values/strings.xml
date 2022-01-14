@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MySamMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Samarqand viloyati</string>
+    <string name="nav_header_subtitle">Moddiy ma\'naviy obyektlari </string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Bosh oyna</string>
+    <string name="menu_gallery">Kategoriya 1</string>
+    <string name="menu_slideshow">Kategoriya 2</string>
+    <string name="menu_share">Kategoriya 3</string>
+    <string name="menu_send">Kategoriya 4</string>
+    <string name="menu_tools">Sozlanmalar</string>
+</resources>
